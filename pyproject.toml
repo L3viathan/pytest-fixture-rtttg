@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "Warn or fail on fixture name clash"
 authors = ["L3viathan <git@l3vi.de>"]
 license = "WTFPL"
+readme = "README.md"
+repository = "https://github.com/L3viathan/pytest-fixture-rtttg"
 
 [tool.poetry.dependencies]
 python = "^3.7"
