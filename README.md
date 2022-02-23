@@ -1,4 +1,4 @@
-# pytest-rtttg
+# pytest-fixture-rtttg
 
 _In the face of ambiguity, refuse the temptation to guess._
 
@@ -9,7 +9,7 @@ one.
 
 ## Installation
 
-    pip install pytest-rtttg
+    pip install pytest-fixture-rtttg
 
 After this, the plugin should automatically do its job.
 
