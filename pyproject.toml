@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pytest-fixture-rtttg"
-version = "0.1.0"
+version = "0.1.1"
 description = "Warn or fail on fixture name clash"
 authors = ["L3viathan <git@l3vi.de>"]
 license = "WTFPL"
